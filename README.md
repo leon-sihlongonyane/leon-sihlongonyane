@@ -1,5 +1,5 @@
 - 😄 I'm Leon Sihlongonyane @https://github.com/leon-sihlongonyane/
-- 🔭 I’m currently working on project 
+- 🔭 I’m currently a masters student at AIMS, South Africa
 - 🌱 I’m currently learning data science focusing in machine learning.
 - 👯 I’m looking to collaborate on machine learning projects.
 - 🤔 I’m looking for help with finding projects opportunities in deep learning
