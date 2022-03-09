@@ -1,7 +1,7 @@
 - 😄 I'm Leon Sihlongonyane @https://github.com/leon-sihlongonyane/
 - 🔭 I’m currently a masters student at AIMS, South Africa
 - 🌱 I’m currently learning data science focusing in machine learning.
-- 👯 I’m looking to collaborate on more machine learning projects, mathematical finance, mathematical computation.
+- 👯 I’m looking to collaborate on more machine learning, mathematical finance, mathematical computation projects.
 - 🤔 I’m currently doing a MSc project covering probabilistic combinatorics, discrete probability, and analytic number theory.
 - 💬 Ask me about differential equations, optimization, machine learning, statistics with R and python programming for data science.
 - 📫 How to reach me: leon@aims.ac.za
